@@ -17,7 +17,7 @@ function initialize() {
     'our restaurant serves wonderous dishes from all around the world';
   
   
-  home.style.cssText = `background-image: url(/src/image.jpg);
+  home.style.cssText = `background-image: url(src/image.jpg);
   height: 90%;
   font-size: 60px;
   background-repeat: no-repeat;
