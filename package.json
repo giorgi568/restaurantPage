@@ -1,0 +1,24 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "page for restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giorgi568/restaurantPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giorgi568/restaurantPage/issues"
+  },
+  "homepage": "https://github.com/giorgi568/restaurantPage#readme",
+  "devDependencies": {
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
