@@ -14,4 +14,4 @@ menuBtn.addEventListener('click', displayMenu);
 
 const contactBtn = document.querySelector('.contact');
 contactBtn.addEventListener('click', displayContact);
-cosnole.log('I get called from print.js!');
+
