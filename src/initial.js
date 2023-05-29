@@ -15,9 +15,8 @@ function initialize() {
   liContact.classList.add('contact');
   home.textContent =
     'our restaurant serves wonderous dishes from all around the world';
-  
-  
-  home.style.cssText = `background-image: url(src/image.jpg);
+
+  home.style.cssText = `background-image: url(./restaurantPage/src/image.jpg);
   height: 90%;
   font-size: 60px;
   background-repeat: no-repeat;
@@ -30,7 +29,7 @@ function initialize() {
   box-sizing: border-box;
   color: #B70404;
   font-weight: 600;
-  text-shadow: 2px 2px 10px black, 0 0 1px grey, 0 0 0.2px grey;`
+  text-shadow: 2px 2px 10px black, 0 0 1px grey, 0 0 0.2px grey;`;
   const content = document.getElementById('content');
   content.appendChild(header);
   header.appendChild(ul);
